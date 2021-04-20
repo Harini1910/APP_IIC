@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">APP IIC</string>
+    <string-array name="Department">
+        <item>Department</item>
+        <item>CSE</item>
+        <item>AUTO</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>EEE</item>
+        <item>EIE</item>
+        <item>ECE</item>
+        <item>CHEMISTRY</item>
+        <item>PHYSICS</item>
+        <item>MATHEMATICS</item>
+    </string-array>
+
+    <string-array name="Department1">
+        <item>Department</item>
+        <item>CSE</item>
+        <item>AUTO</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>EEE</item>
+        <item>EIE</item>
+        <item>ECE</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Year</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>Section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string name="save">Save</string>
+    <string name="generate">Generate</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="value_required">Value Required</string>
+</resources>
+

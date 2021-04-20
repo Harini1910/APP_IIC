@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138719506649",
+    "firebase_url": "https://iic-app.firebaseio.com",
+    "project_id": "iic-app",
+    "storage_bucket": "iic-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138719506649:android:3ade7b45dbf48d1ed08ec8",
+        "android_client_info": {
+          "package_name": "com.example.appiic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138719506649-lmt2ceqn7nlq2sqbml09i1v08ebd3cj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKsclqfCZ5WDWBPeKOBHOQ_gwkm9Iuic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138719506649-lmt2ceqn7nlq2sqbml09i1v08ebd3cj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
